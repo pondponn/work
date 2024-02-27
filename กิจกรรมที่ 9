@@ -1,0 +1,13 @@
+print("ข้อที่ 1")
+for i in range(1,16,2):
+    print(i)
+print("ข้อที่ 2")
+for A in range(2,18,3):
+    print(A)
+print("ข้อที่ 3")
+for B in range(30,-31,-10):
+    print("B")
+print("ข้อที่ 4")
+for C in range(15,56,8):
+    print(C)
+print("จบบริบูรณ์")
